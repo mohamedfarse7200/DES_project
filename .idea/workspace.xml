@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca72e344-3454-4c20-a1d9-9a17a5d7c975" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TnjdAZDk5Y99k1kldP1xYhZZ5e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="DES" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca72e344-3454-4c20-a1d9-9a17a5d7c975" name="Default Changelist" comment="" />
+      <created>1574102838993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574102838993</updated>
+      <workItem from="1574102844497" duration="359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="58" width="800" height="677" key="#Notifications" timestamp="1574103151921">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="306" y="58" width="800" height="677" key="#Notifications/57.27.1309.741@57.27.1309.741" timestamp="1574103151921" />
+    <state x="276" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1574103253684">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="276" y="27" width="860" height="741" key="CommitChangelistDialog2/57.27.1309.741@57.27.1309.741" timestamp="1574103253684" />
+    <state x="483" y="140" width="447" height="513" key="FileChooserDialogImpl" timestamp="1574103142826">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="483" y="140" width="447" height="513" key="FileChooserDialogImpl/57.27.1309.741@57.27.1309.741" timestamp="1574103142826" />
+    <state x="457" y="274" key="Github.ShareDialog" timestamp="1574103212481">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="457" y="274" key="Github.ShareDialog/57.27.1309.741@57.27.1309.741" timestamp="1574103212481" />
+    <state x="546" y="103" width="320" height="586" key="Github.UntrackedFilesDialog" timestamp="1574102984857">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="546" y="103" width="320" height="586" key="Github.UntrackedFilesDialog/57.27.1309.741@57.27.1309.741" timestamp="1574102984857" />
+    <state width="1263" height="175" key="GridCell.Tab.0.bottom" timestamp="1574103177125">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="175" key="GridCell.Tab.0.bottom/57.27.1309.741@57.27.1309.741" timestamp="1574103177125" />
+    <state width="1263" height="175" key="GridCell.Tab.0.center" timestamp="1574103177125">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="175" key="GridCell.Tab.0.center/57.27.1309.741@57.27.1309.741" timestamp="1574103177125" />
+    <state width="1263" height="175" key="GridCell.Tab.0.left" timestamp="1574103177124">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="175" key="GridCell.Tab.0.left/57.27.1309.741@57.27.1309.741" timestamp="1574103177124" />
+    <state width="1263" height="175" key="GridCell.Tab.0.right" timestamp="1574103177125">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state width="1263" height="175" key="GridCell.Tab.0.right/57.27.1309.741@57.27.1309.741" timestamp="1574103177125" />
+    <state x="200" y="31" key="SettingsEditor" timestamp="1574103202063">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="200" y="31" key="SettingsEditor/57.27.1309.741@57.27.1309.741" timestamp="1574103202063" />
+    <state x="306" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1574103280027">
+      <screen x="57" y="27" width="1309" height="741" />
+    </state>
+    <state x="306" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/57.27.1309.741@57.27.1309.741" timestamp="1574103280027" />
+  </component>
+</project>
